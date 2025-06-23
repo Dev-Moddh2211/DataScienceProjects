@@ -14,7 +14,7 @@ A minor project analyzing whether Fandango’s movie ratings are **biased or inf
 - Performed statistical comparisons of ratings from Fandango vs competitors like imdb and rotten tomatoes. 
 - Tools: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
 
-➡️ Check it out in the `Fandango_Analysis` folder!
+➡️ Check it out in the `Fandango_Rating_Analysis` folder!
 
 
 ---
